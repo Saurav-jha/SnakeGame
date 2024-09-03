@@ -1,0 +1,14 @@
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/bin/Debug/net7.0/SnakeGame
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/bin/Debug/net7.0/SnakeGame.deps.json
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/bin/Debug/net7.0/SnakeGame.runtimeconfig.json
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/bin/Debug/net7.0/SnakeGame.dll
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/bin/Debug/net7.0/SnakeGame.pdb
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/SnakeGame.AssemblyInfoInputs.cache
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/SnakeGame.AssemblyInfo.cs
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/SnakeGame.csproj.CoreCompileInputs.cache
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/SnakeGame.dll
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/refint/SnakeGame.dll
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/SnakeGame.pdb
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/SnakeGame.genruntimeconfig.cache
+/Users/sauravjha/Projects/SnakeGame/SnakeGame/obj/Debug/net7.0/ref/SnakeGame.dll

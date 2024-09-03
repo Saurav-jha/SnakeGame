@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHr9Nz5g3tX9K/iZdERZ6f0wGEsx+5oJFaQ/u8Fip0bFCwb4pPJR80zR2MyPHFA5RQjOnEZcAqtRvmkN0OkIiw==",
+  "success": true,
+  "projectFilePath": "/Users/sauravjha/Projects/SnakeGame/SnakeGame/SnakeGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/sauravjha/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/sauravjha/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.18/microsoft.netcore.app.host.osx-arm64.7.0.18.nupkg.sha512",
+    "/Users/sauravjha/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
